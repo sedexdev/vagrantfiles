@@ -1,5 +1,6 @@
 # machine data files
-*/.vagrant/
+**/.vagrant/
 
 # test output files
+**/.*
 docker-swarm/tokens.txt
