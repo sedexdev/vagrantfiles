@@ -4,3 +4,6 @@
 # test output files
 **/.*
 docker-swarm/tokens.txt
+
+# software packages
+**/*.exe
